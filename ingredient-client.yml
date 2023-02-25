@@ -1,7 +1,7 @@
 server:
   port: 8090
 greeting:
-  message: hello my 친구!
+  message: hello myfreind!
 management:
   endpoints:
     web:
