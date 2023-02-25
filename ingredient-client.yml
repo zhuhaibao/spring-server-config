@@ -1,4 +1,4 @@
 server:
   port: 8090
 greeting:
-  message: hello world!
+  message: hello my 친구!
