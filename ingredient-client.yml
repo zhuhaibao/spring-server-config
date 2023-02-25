@@ -2,8 +2,3 @@ server:
   port: 8090
 greeting:
   message: hello myfreind!
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
