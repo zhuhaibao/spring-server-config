@@ -2,3 +2,8 @@ server:
   port: 8090
 greeting:
   message: hello my 친구!
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
