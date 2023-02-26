@@ -2,5 +2,5 @@ spring:
   application:
     name: ingredient-service
 config: 
-  tip: nihao
+  tip: mengjiao
   tip2: zhuhaibao
